@@ -7,7 +7,7 @@
   "displayName": "Dark Modern Terminal Theme",
   "description": "Terminal colors to match the default dark modern theme in Visual Studio Code",
   "icon": "img/icon.png",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
   "repository": {
     "type": "git",
