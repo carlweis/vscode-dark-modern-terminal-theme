@@ -1,8 +1,18 @@
 {
+  "publisher": "codelogix",
+  "author": {
+    "name": "carlweis"
+  },
   "name": "dark-modern-terminal-theme",
   "displayName": "Dark Modern Terminal Theme",
   "description": "Terminal colors to match the default dark modern theme in Visual Studio Code",
-  "version": "0.0.1",
+  "icon": "img/icon.png",
+  "version": "0.0.2",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "carlweis/dark-modern-terminal-theme"
+  },
   "engines": {
     "vscode": "^1.87.0"
   },
