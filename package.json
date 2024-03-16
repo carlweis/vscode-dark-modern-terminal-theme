@@ -7,11 +7,11 @@
   "displayName": "Dark Modern Terminal Theme",
   "description": "Terminal colors to match the default dark modern theme in Visual Studio Code",
   "icon": "img/icon.png",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "carlweis/dark-modern-terminal-theme"
+    "url": "carlweis/vscode-dark-modern-terminal-theme"
   },
   "engines": {
     "vscode": "^1.87.0"

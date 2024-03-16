@@ -30,4 +30,13 @@ No known issues at the moment. Please report any issues you find on the GitHub r
 
 - Initial release of "dark-modern-terminal-theme"
 - Toggle command to switch between dark modern terminal colors and default terminal colors
+
+### 1.0.2
+- Update README
+
+## 1.0.3
+- Update README
+
+## 1.0.4
+- Fix repository URL
 - Update README
