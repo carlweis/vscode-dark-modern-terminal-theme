@@ -8,9 +8,7 @@ This is the README for the extension "dark-modern-terminal-theme," designed to e
 
 - **Toggle Color Theme**: Use the command palette to switch between the dark modern theme and your default terminal color settings.
 
-![Toggle Theme](images/toggle-theme.gif)
-
-> Tip: Consider creating short, focused animations to demonstrate your extension in action. Showing before and after effects can effectively illustrate the impact of your extension.
+![screenshot 2024-03-16 at 16 52 04](https://github.com/carlweis/vscode-dark-modern-terminal-theme/assets/1410882/8dafb63d-e32c-493e-8162-9794bd9f5f85)
 
 ## Requirements
 
